@@ -1,0 +1,21 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  height: 200px;
+}
+
+.name {
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+
+.description {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  text-align: center;
+}
